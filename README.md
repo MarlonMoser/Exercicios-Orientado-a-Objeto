@@ -13,4 +13,3 @@ Aqui estão alguns exercícios que fiz ao decorrer dos meus estudos de orientado
 
 -lista 13: tratamento de Exessoes;
 
--lista 14 e 15: Arquivos de Texto.
